@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>n.png</file>
+        <file>Folder-Open-icon.png</file>
+        <file>Save-icon.png</file>
+        <file>Close-icon (1).png</file>
+        <file>Yes-icon.png</file>
+        <file>Close-icon (2).png</file>
+    </qresource>
+</RCC>
